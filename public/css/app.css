@@ -1,0 +1,59 @@
+.row>[class^="col-"]{
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    background-color: rgba(39,41,43,0.03);
+    border: 1px solid rgba(39,41,43,0.1);
+}
+.link{
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+.table-head{
+    margin: 20px 0px;
+}
+.me-auto {
+    margin-right: auto!important;
+}
+.fr{
+    float: right;
+}
+.mt-20{
+    margin-top: 20px
+}
+.ml-20{
+    margin-left: 20px
+}
+.login-form{
+    margin-top:30px;
+}
+.signup-form{
+    margin-top:30px;
+}
+.table-header{
+    font-weight: bolder;
+}
+.icon{
+    height: 32px;
+    width: 32px;
+    margin: 0 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border:none;
+    outline: none;
+}
+.t-center{
+    text-align: center;
+}
+.p-10{
+    padding: 0 16px;
+}
+#project-desc{
+    width: 100%;
+    text-align: justify;
+}
+#task-desc{
+    width: 100%;
+    text-align: justify;
+}

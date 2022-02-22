@@ -1,0 +1,21 @@
+{
+  "clientToken": "d9d00711-1318-4d5b-975a-6c2cc76cf111",
+  "authenticationDatabase": {
+    "1b7ceca5-6425-11e9-bfea-002590a1379b": {
+      "displayName": "JakeBadland",
+      "type": "tlauncher",
+      "accessToken": "31074910-6fcd-4735-a46b-b92273de9bfd",
+      "userid": "badland@ukr.net",
+      "uuid": "1b7ceca5642511e9bfea002590a1379b",
+      "username": "badland@ukr.net"
+    },
+    "888acd48-6425-11e9-bfea-002590a1379b": {
+      "displayName": "Elstoya",
+      "type": "tlauncher",
+      "accessToken": "86732f95-307e-4b77-b671-e11f748715e9",
+      "userid": "Elstoya",
+      "uuid": "888acd48642511e9bfea002590a1379b",
+      "username": "Elstoya"
+    }
+  }
+}
